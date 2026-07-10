@@ -524,11 +524,6 @@
           "primary": true
         },
         {
-          "label": "Ko-Fi Store/Donation Site",
-          "url": "https://ko-fi.com/nanaamaart",
-          "primary": false
-        },
-        {
           "label": "Etsy Store",
           "url": "https://nanaamaart.etsy.com",
           "primary": false
@@ -539,13 +534,6 @@
           "primary": false
         }
       ]
-    },
-    {
-      "id": "hb_1778981617147",
-      "type": "heading",
-      "heading": "Get Ama To Brazil!",
-      "text": "I've been selected to participate in the July cohort of this year's Pataki Lab, formerly known as the Black Freedom Fellowship for artists. This alternative residency is an opportunity for interdisciplinary creators and researchers to cultivate an art practice in the context of the deep diasporic history of Salvador, Bahia, Brazil. I am raising funds to help cover the tuition costs for attendance. Any support via purchase of my art, or directly through the Ko-Fi or Cashapp/Venmo portals, would be a blessing. Thanks so much!",
-      "buttons": []
     },
     {
       "id": "hb_1778981704951",
